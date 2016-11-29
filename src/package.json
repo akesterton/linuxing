@@ -1,6 +1,5 @@
 {
   "name":"greetings",
-  "version":"1.0",
   "description":"A simple greetings program",
   "dependencies": {
     "express":">=1.2.0"
