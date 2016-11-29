@@ -1,8 +1,5 @@
 {
   "name":"greetings",
-  "version":"1",
+  "version":"1.0",
   "description":"A simple greetings program",
-  "scripts": {
-    "start":"node hello-https.js"
-  }
 }
