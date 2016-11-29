@@ -1,1 +1,2 @@
-oc login --username=admin --password=password
+#!/bin/bash
+oc login --username=admin --password=admin
