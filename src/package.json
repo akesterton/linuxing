@@ -3,5 +3,8 @@
   "description":"A simple greetings program",
   "dependencies": {
     "express":">=1.2.0"
+  },
+  "script":{
+    "start":"node hello-http.js"
   }
 }
